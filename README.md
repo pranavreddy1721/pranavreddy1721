@@ -30,8 +30,6 @@
 
 <h3 align="left">👨‍💻 About Me</h3>
 
-###
-
 <p align="left">
 
 I'm a Computer Science Engineering student (IoT & Cyber Security including Blockchain Technology) from India 🇮🇳
@@ -49,9 +47,37 @@ I'm a Computer Science Engineering student (IoT & Cyber Security including Block
 
 ###
 
-<h3 align="left">🛠 Languages and Tools</h3>
+<h3 align="left">🚀 Featured Project</h3>
+
+<p align="left">
+
+🏥 <b>Chougule Dental Clinic Website</b><br>
+A responsive website developed for a dental clinic to showcase services, contact information, and clinic details.
+
+🔗 Project Link:  
+https://github.com/pranavreddy1721/Chougule-Dental-Clinic
+
+</p>
 
 ###
+
+<h3 align="left">⚡ Tech Stack</h3>
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/MERN-3C873A?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+
+</p>
+
+###
+
+<h3 align="left">🛠 Languages and Tools</h3>
 
 <div align="left">
 
@@ -79,9 +105,23 @@ I'm a Computer Science Engineering student (IoT & Cyber Security including Block
 
 ###
 
-<h3 align="left">🔥 My Stats :</h3>
+<h3 align="left">🏆 GitHub Achievements</h3>
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=pranavreddy1721&theme=darkhub&no-frame=true&row=1&column=6" />
+</p>
 
 ###
+
+<h3 align="left">📈 Contribution Graph</h3>
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=pranavreddy1721&theme=github-dark"/>
+</p>
+
+###
+
+<h3 align="left">🔥 My Stats :</h3>
 
 <div align="center">
 
