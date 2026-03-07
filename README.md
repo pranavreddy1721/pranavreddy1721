@@ -36,12 +36,11 @@
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
 I'm a **Computer Science Engineering student (IoT & Cyber Security including Blockchain Technology)** from India 🇮🇳
 
 - 🔭 I’m currently working on **Web Development Projects**
-- 🌱 I’m currently learning **HTML, CSS, JavaScript, MERN Stack, Cloud Fundamentals, Git & GitHub**
 - 👯 I’m looking to collaborate on **Web development projects**
 - 💬 Ask me about **HTML, CSS, JavaScript and basic web development**
 - 📫 Reach me at **pranavreddy1721@gmail.com**
@@ -49,17 +48,28 @@ I'm a **Computer Science Engineering student (IoT & Cyber Security including Blo
 
 ---
 
-## 🚀 Featured Project
+# 📚 Currently Learning
 
-🏥 **Chougule Dental Clinic Website**  
-A responsive website developed for a dental clinic to showcase services, contact information, and clinic details.
+- HTML5 & CSS3  
+- JavaScript  
+- MERN Stack (MongoDB, Express.js, React, Node.js)  
+- Cloud Fundamentals  
+- Git & GitHub  
+
+---
+
+# 🚀 Featured Project
+
+🏥 **Chougule Dental Clinic Website**
+
+A responsive website developed for a dental clinic to showcase services and clinic information.
 
 🔗 Project Link  
 https://github.com/pranavreddy1721/Chougule-Dental-Clinic
 
 ---
 
-## ⚡ Tech Stack
+# ⚡ Tech Stack
 
 <p align="left">
 
@@ -75,7 +85,7 @@ https://github.com/pranavreddy1721/Chougule-Dental-Clinic
 
 ---
 
-## 🛠 Languages and Tools
+# 🛠 Languages and Tools
 
 <p align="left">
 
@@ -103,30 +113,10 @@ https://github.com/pranavreddy1721/Chougule-Dental-Clinic
 
 ---
 
-## 🏆 GitHub Achievements
+# 📈 Developer Activity Graph
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=pranavreddy1721&theme=onedark&no-frame=true&margin-w=10"/>
-</p>
 
----
-
-## 📈 Contribution Graph
-
-<p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=pranavreddy1721&theme=github-dark&area=true&hide_border=true"/>
-</p>
-
----
-
-## 🔥 My Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=pranavreddy1721&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranavreddy1721&layout=compact&theme=github_dark&hide_border=true"/>
 
 </p>
