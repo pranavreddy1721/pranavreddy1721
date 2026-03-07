@@ -1,40 +1,44 @@
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=0E75B6&center=true&vCenter=true&width=650&lines=Hi+👋+I'm+Pranav;Computer+Science+Engineering+Student;Web+Developer;Learning+MERN+Stack+%7C+Cloud+%7C+Git+%26+GitHub"/>
+
 </div>
 
-###
+<br>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/pranav-reddy-6b2598358/">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge" height="25"/>
-  </a>
-  <a href="https://www.instagram.com/__pranav1721__">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&color=E4405F&logoColor=white&style=for-the-badge" height="25"/>
-  </a>
-  <a href="https://leetcode.com/u/pranav1721/">
-    <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&color=FFA116&logoColor=black&style=for-the-badge" height="25"/>
-  </a>
+<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" height="160"/>
 </div>
 
-###
+<br>
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=pranavreddy1721.pranavreddy1721"/>
+
+<a href="https://www.linkedin.com/in/pranav-reddy-6b2598358/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com/__pranav1721__">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/u/pranav1721/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
 </div>
 
-###
+<br>
 
-<h1 align="center">Hey there 👋 I'm Pranav</h1>
+<div align="center">
+<img src="https://visitor-badge.laobi.icu/badge?page_id=pranavreddy1721.pranavreddy1721"/>
+</div>
 
-###
+---
 
-<h3 align="left">👨‍💻 About Me</h3>
+## 👨‍💻 About Me
 
-<p align="left">
-
-I'm a Computer Science Engineering student (IoT & Cyber Security including Blockchain Technology) from India 🇮🇳
-
-<br><br>
+I'm a **Computer Science Engineering student (IoT & Cyber Security including Blockchain Technology)** from India 🇮🇳
 
 - 🔭 I’m currently working on **Web Development Projects**
 - 🌱 I’m currently learning **HTML, CSS, JavaScript, MERN Stack, Cloud Fundamentals, Git & GitHub**
@@ -43,25 +47,19 @@ I'm a Computer Science Engineering student (IoT & Cyber Security including Block
 - 📫 Reach me at **pranavreddy1721@gmail.com**
 - ⚡ Curious developer who enjoys exploring new technologies and creating innovative web applications
 
-</p>
+---
 
-###
+## 🚀 Featured Project
 
-<h3 align="left">🚀 Featured Project</h3>
-
-<p align="left">
-
-🏥 <b>Chougule Dental Clinic Website</b><br>
+🏥 **Chougule Dental Clinic Website**  
 A responsive website developed for a dental clinic to showcase services, contact information, and clinic details.
 
-🔗 Project Link:  
+🔗 Project Link  
 https://github.com/pranavreddy1721/Chougule-Dental-Clinic
 
-</p>
+---
 
-###
-
-<h3 align="left">⚡ Tech Stack</h3>
+## ⚡ Tech Stack
 
 <p align="left">
 
@@ -75,11 +73,11 @@ https://github.com/pranavreddy1721/Chougule-Dental-Clinic
 
 </p>
 
-###
+---
 
-<h3 align="left">🛠 Languages and Tools</h3>
+## 🛠 Languages and Tools
 
-<div align="left">
+<p align="left">
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/>
 <img width="12"/>
@@ -101,38 +99,34 @@ https://github.com/pranavreddy1721/Chougule-Dental-Clinic
 <img width="12"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40"/>
 
-</div>
-
-###
-
-<h3 align="left">🏆 GitHub Achievements</h3>
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=pranavreddy1721&theme=darkhub&no-frame=true&row=1&column=6" />
 </p>
 
-###
+---
 
-<h3 align="left">📈 Contribution Graph</h3>
+## 🏆 GitHub Achievements
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=pranavreddy1721&theme=github-dark"/>
+<img src="https://github-profile-trophy.vercel.app/?username=pranavreddy1721&theme=onedark&no-frame=true&margin-w=10"/>
 </p>
 
-###
+---
 
-<h3 align="left">🔥 My Stats :</h3>
+## 📈 Contribution Graph
 
-<div align="center">
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=pranavreddy1721&theme=github-dark&area=true&hide_border=true"/>
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=pranavreddy1721&show_icons=true&theme=dark"/>
+---
 
-<br>
+## 🔥 My Stats
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=pranavreddy1721&theme=dark"/>
+<p align="center">
 
-<br>
+<img src="https://github-readme-stats.vercel.app/api?username=pranavreddy1721&show_icons=true&theme=github_dark&hide_border=true"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranavreddy1721&layout=compact&theme=dark"/>
+<br><br>
 
-</div>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranavreddy1721&layout=compact&theme=github_dark&hide_border=true"/>
+
+</p>
