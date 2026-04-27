@@ -65,7 +65,7 @@ I'm a **Computer Science Engineering student (IoT & Cyber Security including Blo
 A responsive website developed for a dental clinic to showcase services and clinic information.
 
 🔗 Project Link  
-https://github.com/pranavreddy1721/Chougule-Dental-Clinic
+https://github.com/pranavreddy1721/dental
 
 ---
 
