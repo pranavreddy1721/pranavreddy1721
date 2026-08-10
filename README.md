@@ -45,43 +45,43 @@ contact:     pranavreddy1721@gmail.com
 
 ## 🚀 Featured Projects
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:1e293b,100:334155&height=70&section=header&text=🎓%20Alumni%20Portal&fontSize=26&fontColor=ffffff&fontAlignY=55&fontAlign=10"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:1e293b,100:334155&height=70&section=header&text=🎓%20Alumni%20Portal&fontSize=24&fontColor=ffffff"/>
 
 Full-stack platform connecting students, alumni & teachers — 5-role RBAC, real-time chat (Socket.io), job referrals, OTP email verification, JWT with brute-force lockout.
 
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/> <img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white"/>
 
-**[🔗 View Repo](https://github.com/pranavreddy1721/alumni-portal)** &nbsp;·&nbsp; **[🚀 Live Demo](https://alumniportal.pages.dev/)**
+**[🌐 Live Demo](https://alumniportal.pages.dev/)** &nbsp;·&nbsp; **[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="16"/> View Repo](https://github.com/pranavreddy1721/alumni-portal)**
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:1e293b,100:334155&height=70&section=header&text=✅%20Task%20Manager&fontSize=26&fontColor=ffffff&fontAlignY=55&fontAlign=10"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:1e293b,100:334155&height=70&section=header&text=✅%20Task%20Manager&fontSize=24&fontColor=ffffff"/>
 
-Full-stack task management app — JWT auth, complete CRUD, search & filtering. Deployed end-to-end: frontend on Cloudflare Pages, API on Render, DB on MongoDB Atlas.
+Full-stack task management app — JWT auth, complete CRUD, search & filtering, and an automated Jest/Supertest CI pipeline via GitHub Actions. Deployed end-to-end: frontend on Cloudflare Pages, API on Render, DB on MongoDB Atlas.
 
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/> <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/> <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white"/> <img src="https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>
 
-**[🔗 View Repo](https://github.com/pranavreddy1721/task-manager)** &nbsp;·&nbsp; **[🚀 Live Demo](https://task-manager-17.pages.dev/)**
+**[🌐 Live Demo](https://task-manager-17.pages.dev/)** &nbsp;·&nbsp; **[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="16"/> View Repo](https://github.com/pranavreddy1721/task-manager)**
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:1e293b,100:334155&height=70&section=header&text=🦷%20Chougule%20Dental%20Clinic&fontSize=26&fontColor=ffffff&fontAlignY=55&fontAlign=10"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:1e293b,100:334155&height=70&section=header&text=🦷%20Chougule%20Dental%20Clinic&fontSize=20&fontColor=ffffff"/>
 
 Production-grade bilingual (English/Marathi) business website — dark/light mode, animated stats, EmailJS appointment booking, 3D flip-card service UI.
 
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white"/> <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
 
-**[🔗 View Repo](https://github.com/pranavreddy1721/dental)** &nbsp;·&nbsp; **[🚀 Live Demo](https://chouguledentalclinic1.pages.dev/)**
+**[🌐 Live Demo](https://chouguledentalclinic1.pages.dev/)** &nbsp;·&nbsp; **[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="16"/> View Repo](https://github.com/pranavreddy1721/dental)**
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:1e293b,100:334155&height=70&section=header&text=💼%20Portfolio&fontSize=26&fontColor=ffffff&fontAlignY=55&fontAlign=10"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:1e293b,100:334155&height=70&section=header&text=💼%20Portfolio&fontSize=24&fontColor=ffffff"/>
 
 Personal portfolio with an admin dashboard for managing content dynamically.
 
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
 
-**[🔗 View Repo](https://github.com/pranavreddy1721/Portfolio)**
+**[🌐 Live Demo](https://portfolio-pranav.pages.dev/)** &nbsp;·&nbsp; **[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="16"/> View Repo](https://github.com/pranavreddy1721/Portfolio)**
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0E75B6,100:6DD5FA&height=3&section=header"/>
 
