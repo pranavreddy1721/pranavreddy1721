@@ -27,6 +27,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0E75B6,100:6DD5FA&height=3&section=header"/>
 
+
 ## 👨‍💻 About Me
 
 <img align="right" width="280" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="opacity:0.08; position:absolute; margin-top:-20px;"/>
@@ -122,16 +123,20 @@ Personal portfolio with an admin dashboard for managing content dynamically.
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=pranavreddy1721&show_icons=true&theme=dark&hide_border=true&count_private=true" height="170"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=pranavreddy1721&theme=dark&hide_border=true" height="170"/>
+<img src="https://github-stats-extended.vercel.app/api?username=pranavreddy1721&show_icons=true&theme=dark&hide_border=true&count_private=true" height="170"/>
+<img src="https://streak-stats.demolab.com?user=pranavreddy1721&theme=dark&hide_border=true" height="170"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranavreddy1721&layout=compact&theme=dark&hide_border=true" height="170"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=pranavreddy1721&layout=compact&theme=dark&hide_border=true" height="170"/>
 </p>
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=pranavreddy1721&theme=github-dark&area=true&hide_border=true"/>
+</p>
+
+<p align="center">
+<img src="https://github-profile-trophy-liard-delta.vercel.app/?username=pranavreddy1721&theme=darkhub&no-frame=true&row=1&column=6&margin-w=8"/>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0E75B6,100:6DD5FA&height=100&section=footer"/>
