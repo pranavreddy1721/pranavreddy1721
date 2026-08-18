@@ -135,8 +135,10 @@ Personal portfolio with an admin dashboard for managing content dynamically.
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=pranavreddy1721&theme=github-dark&area=true&hide_border=true"/>
 </p>
 
+## 🐍 Contribution Snake
+
 <p align="center">
-<img src="https://github-profile-trophy-liard-delta.vercel.app/?username=pranavreddy1721&theme=darkhub&no-frame=true&row=1&column=6&margin-w=8"/>
+<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg"/>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0E75B6,100:6DD5FA&height=100&section=footer"/>
